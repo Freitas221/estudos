@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(84, 84, 240);
+    font: normal  15px 'Open sans', Helvetica, sans-serif;
+    line-height: 1.5em;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    max-width: 640px;
+    margin: 50px auto;
+    background-color: rgb(176, 176, 227);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+ input, label, button{
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+input{
+    font-size: 15px;
+    height: 2em ;
+    padding: 0 20px;
+    border-radius: 7px;
+}
+
+button{
+    background-color: rgb(116, 116, 238);
+    color: aliceblue;
+    border-radius: 5px;
+    line-height: 25px;
+    cursor: pointer;
+    
+}
+
+div{
+    font: normal 20px 'Open Sans', Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgba(92, 8, 236, 0.748);
+    border-radius: 5px;
+}
