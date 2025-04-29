@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+/* Aparelhos no modo paisagem */
+
+body {
+    background: blue url(../imagens/cev-landscape.jpg) center no-repeat;
+    background-size: cover;
+}

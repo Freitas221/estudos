@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+/* Aparelhos no modo retrato */
+
+body {
+    background: blue url(../imagens/cev-portrait.jpg) center bottom no-repeat;
+    background-size: cover;
+}
