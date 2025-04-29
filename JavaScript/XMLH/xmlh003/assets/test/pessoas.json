@@ -1,0 +1,472 @@
+[
+  {
+    "nome": "Miguel",
+    "email": "miguel@email.com.br",
+    "salario": 27211,
+    "estado": "MG",
+    "empresa": "Facebook",
+    "idade": 34,
+    "sexo": "",
+    "cpf": "362.418.524-18"
+  },
+  {
+    "nome": "Sophia",
+    "email": "sophia@empresa.com.br",
+    "salario": 6971,
+    "estado": "DF",
+    "empresa": "Plastic Co.",
+    "idade": 25,
+    "sexo": "F",
+    "cpf": "742.316.671-52"
+  },
+  {
+    "nome": "Davi",
+    "email": "davi@hotmail.com",
+    "salario": 10465,
+    "estado": "SC",
+    "empresa": "Facebook",
+    "idade": 51,
+    "sexo": "",
+    "cpf": "725.732.024-10"
+  },
+  {
+    "nome": "Alice",
+    "email": "alice@empresa.com.br",
+    "salario": 39010,
+    "estado": "AL",
+    "empresa": "GGTT",
+    "idade": 46,
+    "sexo": "",
+    "cpf": "188.944.026-49"
+  },
+  {
+    "nome": "Arthur",
+    "email": "arthur@email.com.br",
+    "salario": 8726,
+    "estado": "PE",
+    "empresa": "Governo Federal",
+    "idade": 21,
+    "sexo": "",
+    "cpf": "432.594.262-99"
+  },
+  {
+    "nome": "Julia",
+    "email": "julia@email.com.br",
+    "salario": 24250,
+    "estado": "RO",
+    "empresa": "Uber",
+    "idade": 42,
+    "sexo": "F",
+    "cpf": "475.250.344-19"
+  },
+  {
+    "nome": "Pedro",
+    "email": "pedro@uol.com.br",
+    "salario": 8679,
+    "estado": "DF",
+    "empresa": "Facebook",
+    "idade": 43,
+    "sexo": "M",
+    "cpf": "637.637.477-88"
+  },
+  {
+    "nome": "Isabella",
+    "email": "isabella@uol.com.br",
+    "salario": 37303,
+    "estado": "RO",
+    "empresa": "Enum G.",
+    "idade": 59,
+    "sexo": "F",
+    "cpf": "787.264.677-39"
+  },
+  {
+    "nome": "Gabriel",
+    "email": "gabriel@outlook.com",
+    "salario": 32446,
+    "estado": "AM",
+    "empresa": "Facebook",
+    "idade": 44,
+    "sexo": "",
+    "cpf": "868.492.285-95"
+  },
+  {
+    "nome": "Manuela",
+    "email": "manuela@empresa.com.br",
+    "salario": 3898,
+    "estado": "PA",
+    "empresa": "For Men",
+    "idade": 28,
+    "sexo": "F",
+    "cpf": "576.014.456-15"
+  },
+  {
+    "nome": "Bernardo",
+    "email": "bernardo@empresa.com.br",
+    "salario": 19380,
+    "estado": "PA",
+    "empresa": "Plastic Co.",
+    "idade": 46,
+    "sexo": "M",
+    "cpf": "275.350.246-37"
+  },
+  {
+    "nome": "Laura",
+    "email": "laura@empresa.com.br",
+    "salario": 24924,
+    "estado": "RS",
+    "empresa": "For Men",
+    "idade": 54,
+    "sexo": "F",
+    "cpf": "807.471.149-86"
+  },
+  {
+    "nome": "Lucas",
+    "email": "lucas@uol.com.br",
+    "salario": 43695,
+    "estado": "RS",
+    "empresa": "GGTT",
+    "idade": 25,
+    "sexo": "",
+    "cpf": "960.265.431-71"
+  },
+  {
+    "nome": "Luiza",
+    "email": "luiza@uol.com.br",
+    "salario": 20376,
+    "estado": "RS",
+    "empresa": "Raro Efeito",
+    "idade": 22,
+    "sexo": "F",
+    "cpf": "274.737.669-96"
+  },
+  {
+    "nome": "Matheus",
+    "email": "matheus@uol.com.br",
+    "salario": 1242,
+    "estado": "CE",
+    "empresa": "Google",
+    "idade": 47,
+    "sexo": "",
+    "cpf": "235.901.289-41"
+  },
+  {
+    "nome": "Valentina",
+    "email": "valentina@hotmail.com",
+    "salario": 19111,
+    "estado": "MG",
+    "empresa": "For Men",
+    "idade": 57,
+    "sexo": "F",
+    "cpf": "150.711.441-90"
+  },
+  {
+    "nome": "Rafael",
+    "email": "rafael@gmail.com",
+    "salario": 33213,
+    "estado": "TO",
+    "empresa": "Raro Efeito",
+    "idade": 23,
+    "sexo": "",
+    "cpf": "436.698.036-37"
+  },
+  {
+    "nome": "Giovanna",
+    "email": "giovanna@hotmail.com",
+    "salario": 9602,
+    "estado": "SP",
+    "empresa": "CCEE",
+    "idade": 37,
+    "sexo": "F",
+    "cpf": "120.516.031-03"
+  },
+  {
+    "nome": "Heitor",
+    "email": "heitor@hotmail.com",
+    "salario": 30471,
+    "estado": "PB",
+    "empresa": "Google",
+    "idade": 40,
+    "sexo": "",
+    "cpf": "118.272.374-81"
+  },
+  {
+    "nome": "Maria Eduarda",
+    "email": "mariaeduarda@email.com.br",
+    "salario": 16012,
+    "estado": "MT",
+    "empresa": "Google",
+    "idade": 23,
+    "sexo": "F",
+    "cpf": "942.637.660-75"
+  },
+  {
+    "nome": "Enzo",
+    "email": "enzo@uol.com.br",
+    "salario": 15624,
+    "estado": "PA",
+    "empresa": "Enum G.",
+    "idade": 21,
+    "sexo": "M",
+    "cpf": "735.781.301-09"
+  },
+  {
+    "nome": "Helena",
+    "email": "helena@email.com.br",
+    "salario": 35781,
+    "estado": "SC",
+    "empresa": "UMAL",
+    "idade": 38,
+    "sexo": "F",
+    "cpf": "172.140.294-21"
+  },
+  {
+    "nome": "Guilherme",
+    "email": "guilherme@uol.com.br",
+    "salario": 2458,
+    "estado": "RN",
+    "empresa": "Governo Federal",
+    "idade": 25,
+    "sexo": "",
+    "cpf": "788.776.187-52"
+  },
+  {
+    "nome": "Beatriz",
+    "email": "beatriz@gmail.com",
+    "salario": 43337,
+    "estado": "SE",
+    "empresa": "CCEE",
+    "idade": 58,
+    "sexo": "",
+    "cpf": "886.603.502-51"
+  },
+  {
+    "nome": "Nicolas",
+    "email": "nicolas@hotmail.com",
+    "salario": 28927,
+    "estado": "PR",
+    "empresa": "GGTT",
+    "idade": 57,
+    "sexo": "",
+    "cpf": "169.340.124-02"
+  },
+  {
+    "nome": "Maria Luiza",
+    "email": "marialuiza@empresa.com.br",
+    "salario": 39041,
+    "estado": "SE",
+    "empresa": "Facebook",
+    "idade": 26,
+    "sexo": "F",
+    "cpf": "664.162.665-20"
+  },
+  {
+    "nome": "Lorenzo",
+    "email": "lorenzo@yahoo.com",
+    "salario": 8116,
+    "estado": "SE",
+    "empresa": "UMAL",
+    "idade": 27,
+    "sexo": "M",
+    "cpf": "302.708.036-96"
+  },
+  {
+    "nome": "Lara",
+    "email": "lara@yahoo.com",
+    "salario": 36315,
+    "estado": "MA",
+    "empresa": "Spotify",
+    "idade": 22,
+    "sexo": "F",
+    "cpf": "279.024.658-01"
+  },
+  {
+    "nome": "Gustavo",
+    "email": "gustavo@yahoo.com",
+    "salario": 34494,
+    "estado": "SC",
+    "empresa": "GGTT",
+    "idade": 34,
+    "sexo": "M",
+    "cpf": "804.768.054-49"
+  },
+  {
+    "nome": "Mariana",
+    "email": "mariana@gmail.com",
+    "salario": 20862,
+    "estado": "RS",
+    "empresa": "Clothing",
+    "idade": 56,
+    "sexo": "F",
+    "cpf": "447.563.912-30"
+  },
+  {
+    "nome": "Felipe",
+    "email": "felipe@email.com.br",
+    "salario": 23662,
+    "estado": "CE",
+    "empresa": "Netflix",
+    "idade": 18,
+    "sexo": "",
+    "cpf": "242.750.306-13"
+  },
+  {
+    "nome": "Nicole",
+    "email": "nicole@uol.com.br",
+    "salario": 41803,
+    "estado": "SC",
+    "empresa": "Facebook",
+    "idade": 35,
+    "sexo": "",
+    "cpf": "824.070.835-80"
+  },
+  {
+    "nome": "Samuel",
+    "email": "samuel@outlook.com",
+    "salario": 29712,
+    "estado": "GO",
+    "empresa": "AirBnB",
+    "idade": 40,
+    "sexo": "",
+    "cpf": "340.046.283-77"
+  },
+  {
+    "nome": "Rafaela",
+    "email": "rafaela@uol.com.br",
+    "salario": 40567,
+    "estado": "RS",
+    "empresa": "Facebook",
+    "idade": 37,
+    "sexo": "F",
+    "cpf": "993.007.697-23"
+  },
+  {
+    "nome": "João Pedro",
+    "email": "joaopedro@outlook.com",
+    "salario": 25411,
+    "estado": "ES",
+    "empresa": "Google",
+    "idade": 22,
+    "sexo": "M",
+    "cpf": "681.592.928-05"
+  },
+  {
+    "nome": "Heloísa",
+    "email": "heloisa@empresa.com.br",
+    "salario": 19303,
+    "estado": "BA",
+    "empresa": "Spotify",
+    "idade": 19,
+    "sexo": "F",
+    "cpf": "952.738.566-04"
+  },
+  {
+    "nome": "Daniel",
+    "email": "daniel@gmail.com",
+    "salario": 13786,
+    "estado": "SP",
+    "empresa": "A&B",
+    "idade": 40,
+    "sexo": "",
+    "cpf": "789.952.323-07"
+  },
+  {
+    "nome": "Isadora",
+    "email": "isadora@empresa.com.br",
+    "salario": 5748,
+    "estado": "PE",
+    "empresa": "Uber",
+    "idade": 48,
+    "sexo": "F",
+    "cpf": "522.512.348-10"
+  },
+  {
+    "nome": "Vitor",
+    "email": "vitor@hotmail.com",
+    "salario": 33916,
+    "estado": "PI",
+    "empresa": "UMAL",
+    "idade": 25,
+    "sexo": "",
+    "cpf": "506.336.797-63"
+  },
+  {
+    "nome": "Lívia",
+    "email": "livia@outlook.com",
+    "salario": 44022,
+    "estado": "RN",
+    "empresa": "Plastic Co.",
+    "idade": 48,
+    "sexo": "F",
+    "cpf": "904.364.824-87"
+  },
+  {
+    "nome": "Leonardo",
+    "email": "leonardo@uol.com.br",
+    "salario": 36671,
+    "estado": "AM",
+    "empresa": "Google",
+    "idade": 55,
+    "sexo": "M",
+    "cpf": "690.534.776-08"
+  },
+  {
+    "nome": "Maria Clara",
+    "email": "mariaclara@gmail.com",
+    "salario": 30729,
+    "estado": "RR",
+    "empresa": "GGTT",
+    "idade": 48,
+    "sexo": "F",
+    "cpf": "229.959.344-62"
+  },
+  {
+    "nome": "Henrique",
+    "email": "henrique@email.com.br",
+    "salario": 30201,
+    "estado": "SE",
+    "empresa": "Google",
+    "idade": 21,
+    "sexo": "",
+    "cpf": "397.486.950-69"
+  },
+  {
+    "nome": "Ana Clara",
+    "email": "anaclara@uol.com.br",
+    "salario": 8951,
+    "estado": "PI",
+    "empresa": "Brasil Ent.",
+    "idade": 36,
+    "sexo": "F",
+    "cpf": "939.963.988-67"
+  },
+  {
+    "nome": "Theo",
+    "email": "theo@empresa.com.br",
+    "salario": 41751,
+    "estado": "DF",
+    "empresa": "Raro Efeito",
+    "idade": 56,
+    "sexo": "M",
+    "cpf": "984.574.525-33"
+  },
+  {
+    "nome": "Lorena",
+    "email": "lorena@outlook.com",
+    "salario": 39110,
+    "estado": "AC",
+    "empresa": "Plastic Co.",
+    "idade": 37,
+    "sexo": "F",
+    "cpf": "211.696.427-05"
+  },
+  {
+    "nome": "Murilo",
+    "email": "murilo@yahoo.com",
+    "salario": 39760,
+    "estado": "RR",
+    "empresa": "Plastic Co.",
+    "idade": 18,
+    "sexo": "M",
+    "cpf": "373.314.678-67"
+  }
+]
