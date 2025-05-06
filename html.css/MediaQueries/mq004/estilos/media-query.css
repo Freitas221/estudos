@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+/* Typical Devide Breakpoints
+------------------------------
+Pequenas telas: até 600px
+Celular: até 768px
+Tablet: até 992px
+Desktop: até 1200px
+Grandes acima de 12000px
+*/
+
+/*Todas as demais mídias*/
+
+@media print {
+
+    * {
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    body {
+        background-image: url(../imagens/back-print.jpg); /*A impressora não imprime*/
+    }
+
+    main {
+        border: 2px solid black;
+        width: 80vw;
+    }
+
+    main h1{
+        text-shadow: none;
+        color: black;
+    }
+
+    main::after {
+        content: 'Esse site foi desenvolvido por www.marcos.com';
+        text-decoration: overline;
+    }
+
+    img#phone { display: none; }
+    img#tablet { display: none; }
+    img#print {display: block; }
+    img#pc { display: none; }
+    img#tv { display: none; }
+}
+
+@media screen and (min-width: 768px) {
+    body {
+        background-image: url(../imagens/back-tablet.jpg);
+    }
+
+    img#phone { display: none; }
+    img#tablet { display: block; }
+    img#print {display: none; }
+    img#pc { display: none; }
+    img#tv { display: none; }
+}
+
+@media screen and (min-width: 993px) {
+    body {
+        background-image: url(../imagens/back-pc.jpg);
+    }
+
+    img#phone { display: none; }
+    img#tablet { display: none; }
+    img#print {display: none; }
+    img#pc { display: block; }
+    img#tv { display: none; }
+}
+
+@media screen and (min-width: 1200px) {
+    body {
+        background-image: url(../imagens/back-tv.jpg);
+    }
+
+    img#phone { display: none; }
+    img#tablet { display: none; }
+    img#print {display: none; }
+    img#pc { display: none; }
+    img#tv { display: block; }
+
+}
