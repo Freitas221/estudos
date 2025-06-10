@@ -1,0 +1,60 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+*{
+    box-sizing: border-box;
+    outline: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(84, 84, 240);
+    font: normal  15px 'Open sans', Helvetica, sans-serif;
+    line-height: 1.5em;
+}
+
+h1 { 
+    text-align: center;
+    color: aliceblue;
+}
+
+.container{
+    max-width: 640px;
+    margin: 50px auto;
+    background-color: rgb(176, 176, 227);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+ input, label, button{
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+input{
+    font-size: 15px;
+    height: 3em ;
+    padding: 0 20px;
+    border-radius: 7px;
+}
+
+button{
+    background-color: rgb(116, 116, 238);
+    color: aliceblue;
+    border-radius: 5px;
+    line-height: 25px;
+    cursor: pointer;
+    
+}
+
+.cpf-gerado {
+    background-color: aliceblue;
+    padding: 3px;
+    border-radius: 5px;
+    width: 24%;
+    margin: auto;
+    letter-spacing: 2px;
+}
